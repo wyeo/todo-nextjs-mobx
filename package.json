@@ -1,0 +1,26 @@
+{
+  "name": "todo-mobx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.7.4",
+    "@emotion/core": "^10.0.22",
+    "babel-plugin-emotion": "^10.0.23",
+    "emotion": "^10.0.23",
+    "mobx": "^5.15.1",
+    "mobx-react": "^6.1.4",
+    "next": "9.1.6",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.20",
+    "@types/react": "^16.9.16",
+    "typescript": "^3.7.3"
+  }
+}
